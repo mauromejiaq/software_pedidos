@@ -1,3 +1,14 @@
+<h3 style="text-align: center;">LENGUAJE USADO</h3>
+<p>Utilic&eacute; PHP usando el framework laravel 5.8, es el lenguaje que m&aacute;s ulitiliz&oacute; desde hace varios a&ntilde;os, Laravel me gusta ya que maneja un patr&oacute;n de arquitectura MVC separando la l&oacute;gica de las vistas, el proceso de desarrollo es mucho m&aacute;s r&aacute;p&igrave;do y la seguridad que la misma ofrece.</p>
+<p>En base de datos utilic&eacute; MYSQL, para proyectos como este ejemplo me pareci&oacute; adecuado aplicarlo.</p>
+<p>Dentro del repositorio se encuentra la base de datos: <a href="https://github.com/mauromejiaq/software_pedidos/blob/master/db.sql">https://github.com/mauromejiaq/software_pedidos/blob/master/db.sql</a></p>
+<h3 style="text-align: center;">MODELO ENTIDAD RELACI&Oacute;N</h3>
+<p>&nbsp;</p>
+<p><img src="https://i.ibb.co/TvQhnp7/mer.png" alt="mer" border="0" /></p>
+<h3 style="text-align: center;">IM&Aacute;GENES DEL SOFTWARE</h3>
+<p>&nbsp;</p>
+<p><img src="https://i.ibb.co/98YX1bk/categorias.png" alt="categorias" border="0" /> <img src="https://i.ibb.co/ZdhKsmm/cattidad-mas-de.png" alt="cattidad-mas-de" border="0" /> <img src="https://i.ibb.co/3F3kqD3/completar-orden.png" alt="completar-orden" border="0" /> <img src="https://i.ibb.co/XSd0380/edita-categoria.png" alt="edita-categoria" border="0" /> <img src="https://i.ibb.co/r4h5Fdz/orden-completada.png" alt="orden-completada" border="0" /> <img src="https://i.ibb.co/7zqC4c5/ordenes.png" alt="ordenes" border="0" /> <img src="https://i.ibb.co/McT0KhF/productos.png" alt="productos" border="0" /> <img src="https://i.ibb.co/RhSLXJs/productos-cliente.png" alt="productos-cliente" border="0" /> <img src="https://i.ibb.co/gjpjjcG/vaciar-Carrito.png" alt="vaciar-Carrito" border="0" /> <img src="https://i.ibb.co/mz15snm/ver-orden.png" alt="ver-orden" border="0" /> <img src="https://i.ibb.co/pf2Zr2F/ver-producto.png" alt="ver-producto" border="0" /></p>
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
